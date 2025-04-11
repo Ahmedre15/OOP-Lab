@@ -115,8 +115,5 @@ int main() {
     user2.withdraw(600); 
     user2.deposit(300);
     user2.checkBalance();
-user1.getWDlimit();
-user2.getWDlimit();
-
     return 0;
 }
