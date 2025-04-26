@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 using namespace std;
-
+//Class
 class File {
 private:
     string filename;
